@@ -1,4 +1,4 @@
-# Container Crane Controller
+# Container Crane Controller Prediction
  
 Two predictive attributes (Speed and Angle) and one attribute target (Power). A container crane has the function of transporting containers from one point to another point. The difficulty of this task lies in the fact that the container is connected to the bridge crane by cables causing an opening angle while the container is being transported, interfering with the operation at high speeds due to oscillation that occurs at the end point, which could cause accidents.
 
